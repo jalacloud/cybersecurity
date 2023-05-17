@@ -1,0 +1,51 @@
+
+Account Takeover
+Advanced Persistent Threat
+Application Access Token 
+Payment Fraud 
+Business Invoice Fraud
+Brute Force Attack 
+Compromised Credentials 
+Credential Dumping 
+Credential Reuse Attack 
+Credential Stuffing 
+Cloud Access Management 
+Cloud Cryptomining
+Command and Control 
+Cross-Site Scripting 
+Cryptojacking Attack 
+Data From Information Repositories 
+DoS Attack 
+DDoS Attack 
+Disabling Security Tools 
+DNS Amplification 
+DNS Hijacking 
+DNS Tunneling 
+Drive-by Download Attack 
+Host Redirection 
+Insider Threat 
+IoT Threats 
+IoMT Threats  
+Macro Viruses 
+Malicious Powershell 
+Man-in-the-Middle Attack 
+Masquerade Attack 
+Meltdown and Spectre Attack 
+Network Sniffing 
+Pass the Hash 
+Phishing 
+Phishing Payloads 
+Ransomware
+Shadow IT 
+SIM jacking 
+Social Engineering Attack 
+SQL Injection 
+Spear Phishing 
+Spyware 
+System Misconfiguration 
+Typosquatting 
+Watering Hole Attack 
+Web Session Cookie 
+Whale Phishing
+Wire Attack
+Zero Day Exploit
