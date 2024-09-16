@@ -4,7 +4,7 @@ tags: Assets, Information
 
 # Information Assets //
 
-- [ ] Application
+- [ ] Applications
 - [ ] Confidentiality Rating
 - [ ] Integrity Rating
 - [ ] Information Description (What specific information is used/created/stored)
