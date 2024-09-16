@@ -1,8 +1,8 @@
 ---
-tags: Assessment, Details
+tags: Assessment, Classification
 ---
 
-# Assessment Details //
+# Assessment Classification //
 
 - [ ] Confidentiality rating
 - [ ] Integrity rating
