@@ -1,4 +1,8 @@
-### 03. **Intrusion Attempts**
+Certainly! Here's the "Intrusion Attempts" section using Australian/British English:
+
+---
+
+### 3. **Intrusion Attempts**
 
 #### **a. How many intrusion attempts have been detected and blocked by your intrusion detection system?**
 - **Metric**: Number of intrusion attempts detected and blocked.
@@ -18,19 +22,19 @@
   - **Outcome**: A lower average response time indicates a more efficient incident response process.
 
 #### **c. What is the process for reporting intrusion attempts to relevant stakeholders, including management, legal, and law enforcement?**
-- **Metric**: Percentage of intrusion attempts reported within the required time frame.
+- **Metric**: Percentage of intrusion attempts reported within the required timeframe.
   - **Formula**: 
     ```markdown
     Reporting compliance rate = 
     (Number of intrusion attempts reported on time / Total number of intrusion attempts requiring reporting) * 100
     ```
-  - **Outcome**: A higher compliance rate ensures that the organization meets its legal and regulatory obligations.
+  - **Outcome**: A higher compliance rate ensures that the organisation meets its legal and regulatory obligations.
 
-#### **d. How many unauthorized access attempts have been detected and blocked by your firewall?**
-- **Metric**: Number of unauthorized access attempts detected and blocked by the firewall.
+#### **d. How many unauthorised access attempts have been detected and blocked by your firewall?**
+- **Metric**: Number of unauthorised access attempts detected and blocked by the firewall.
   - **Formula**: 
     ```markdown
-    Unauthorized access attempts blocked = Count of all unauthorized access attempts detected and blocked by the firewall
+    Unauthorised access attempts blocked = Count of all unauthorised access attempts detected and blocked by the firewall
     ```
   - **Outcome**: This metric provides insight into the firewall's effectiveness and the frequency of attempted breaches.
 
@@ -43,17 +47,17 @@
     ```
   - **Outcome**: A higher rate indicates a thorough and transparent process for handling intrusion attempts.
 
-#### **f. How are logs and other security event data collected and analyzed, and what tools and processes are used for this purpose?**
-- **Metric**: Percentage of security events logged and analyzed.
+#### **f. How are logs and other security event data collected and analysed, and what tools and processes are used for this purpose?**
+- **Metric**: Percentage of security events logged and analysed.
   - **Formula**: 
     ```markdown
     Logging and analysis rate = 
-    (Number of logged and analyzed events / Total number of security events) * 100
+    (Number of logged and analysed events / Total number of security events) * 100
     ```
   - **Outcome**: A higher percentage suggests robust logging and monitoring practices.
 
-#### **g. How are security incidents classified and prioritized, and what response procedures are in place for each classification?**
-- **Metric**: Percentage of security incidents correctly classified and prioritized.
+#### **g. How are security incidents classified and prioritised, and what response procedures are in place for each classification?**
+- **Metric**: Percentage of security incidents correctly classified and prioritised.
   - **Formula**: 
     ```markdown
     Incident classification accuracy rate = 
@@ -67,9 +71,9 @@
     ```markdown
     Log review frequency = Number of log reviews conducted per day/week/month
     ```
-  - **Outcome**: Regular log reviews help in early detection of potential security issues.
+  - **Outcome**: Regular log reviews help in the early detection of potential security issues.
 
-#### **i. How are security events and incidents correlated and analyzed to identify potential threats and attacks?**
+#### **i. How are security events and incidents correlated and analysed to identify potential threats and attacks?**
 - **Metric**: Percentage of correlated security events leading to threat identification.
   - **Formula**: 
     ```markdown
