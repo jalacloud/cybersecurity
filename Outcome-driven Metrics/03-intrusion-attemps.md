@@ -1,8 +1,4 @@
-Certainly! Here's the "Intrusion Attempts" section using Australian/British English:
-
----
-
-### 3. **Intrusion Attempts**
+### 03. **Intrusion Attempts**
 
 #### **a. How many intrusion attempts have been detected and blocked by your intrusion detection system?**
 - **Metric**: Number of intrusion attempts detected and blocked.
