@@ -3,8 +3,7 @@
 Outcome-driven metrics have a direct relationship to operational outcomes of cybersecurity investment and to the level of protection delivered in a business context. 
 Using ODMs, CIOs/CISOs can more effectively drive priorities and investments that balance the need to protect the business with the need to run it
 
-![image](https://github.com/user-attachments/assets/1233083a-0e30-497b-b568-45266a7af501)
-
+![image](https://github.com/user-attachments/assets/3fa9c948-ae50-445a-853c-8aebfc19d6f6)
 
 
 To demonstrate how to improve performance across all fourteen (14) primary cybersecurity metrics, each checklist item is presented in question form.
