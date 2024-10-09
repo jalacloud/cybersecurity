@@ -29,7 +29,7 @@
   - **Formula**: Count of tests conducted per quarter / year and days since the last successful test.
   - **Outcome**: Regular testing and recent successful tests ensure plans are effective and up-to-date.
 
-#### **f. How is your organization managing data classification and data retention policies, and how are those policies enforced?**
+#### **f. How is your organisation managing data classification and data retention policies, and how are those policies enforced?**
 - **Metric**: Compliance rate with data classification and retention policies.
   - **Formula**: ```Compliance rate = [ Number of compliant instances / Total instances reviewed ] * 100```
   - **Outcome**: Higher compliance rates indicate better management of data policies and lower risks related to data handling.
@@ -56,7 +56,7 @@
 #### **j. How many devices on your network are running end-of-life (EOL) software no longer receiving security updates?**
 - **Metric**: Percentage of devices running EOL software.
   - **Formula**: ```Percentage of EOL devices = [ Number of EOL devices / Total number of devices ] * 100```
-  - **Outcome**: Reducing this percentage over time improves security posture by minimizing unsupported software.
+  - **Outcome**: Reducing this percentage over time improves security posture by minimising unsupported software.
 
 #### **k. How often are security risk assessments conducted, and what actions are taken as a result of those assessments?**
 - **Metric 1**: Frequency of security risk assessments.
