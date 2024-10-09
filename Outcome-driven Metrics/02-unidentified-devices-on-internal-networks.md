@@ -1,13 +1,13 @@
 ### 2. **Unidentified Devices on Internal Networks**
 
-#### **a. What is the inventory of authorized devices on your network, and how is it maintained and kept up-to-date?**
-- **Metric**: Percentage of authorized devices with up-to-date inventory records.
+#### **a. What is the inventory of authorised devices on your network, and how is it maintained and kept up-to-date?**
+- **Metric**: Percentage of authorised devices with up-to-date inventory records.
   - **Formula**: 
     ```markdown
     Percentage of up-to-date inventory = 
-    (Number of authorized devices with up-to-date records / Total number of authorized devices) * 100
+    (Number of authorised devices with up-to-date records / Total number of authorised devices) * 100
     ```
-  - **Outcome**: A higher percentage indicates better control over network devices and reduced risk from unauthorized or unidentified devices.
+  - **Outcome**: A higher percentage indicates better control over network devices and reduced risk from unauthorised or unidentified devices.
 
 #### **b. How many assets are there in your network?**
 - **Metric**: Total number of assets on the network.
@@ -26,14 +26,14 @@
     ```
   - **Outcome**: Helps in assessing the concentration of sensitive data within the network and the associated risk.
 
-#### **d. What is the process for responding to unauthorized devices on the network, and how are these devices quarantined and monitored?**
-- **Metric**: Average time to detect, quarantine, and monitor unauthorized devices.
+#### **d. What is the process for responding to unauthorised devices on the network, and how are these devices quarantined and monitored?**
+- **Metric**: Average time to detect, quarantine, and monitor unauthorised devices.
   - **Formula**: 
     ```markdown
     Average response time = 
-    Total time from detection to quarantine / Number of unauthorized devices detected
+    Total time from detection to quarantine / Number of unauthorised devices detected
     ```
-  - **Outcome**: Shorter response times indicate more effective processes for managing unauthorized devices.
+  - **Outcome**: Shorter response times indicate more effective processes for managing unauthorised devices.
 
 #### **e. How are IoT devices secured, and what is the process for monitoring and patching their vulnerabilities?**
 - **Metric**: Percentage of IoT devices with up-to-date security patches.
@@ -68,14 +68,14 @@
     ```
   - **Outcome**: High compliance rates and shorter processing times reflect strong access control practices.
 
-#### **h. How are devices authenticated and authorized before being allowed to connect to the network?**
-- **Metric**: Percentage of devices successfully authenticated and authorized.
+#### **h. How are devices authenticated and authorised before being allowed to connect to the network?**
+- **Metric**: Percentage of devices successfully authenticated and authorised.
   - **Formula**: 
     ```markdown
     Successful authentication percentage = 
-    (Number of authenticated and authorized devices / Total number of devices attempting to connect) * 100
+    (Number of authenticated and authorised devices / Total number of devices attempting to connect) * 100
     ```
-  - **Outcome**: A high percentage indicates robust authentication and authorization controls, reducing the risk of unauthorized access.
+  - **Outcome**: A high percentage indicates robust authentication and authorisation controls, reducing the risk of unauthorised access.
 
 #### **i. What is the policy for employees bringing their own devices (BYOD) to work, and how are these devices managed and secured?**
 - **Metric**: Percentage of BYOD devices compliant with security policies.
@@ -86,12 +86,12 @@
     ```
   - **Outcome**: Higher compliance rates reduce the risk associated with BYOD policies.
 
-#### **j. What measures are in place to detect and respond to rogue access points or other unauthorized network infrastructure?**
-- **Metric**: Average time to detect and neutralize rogue access points.
+#### **j. What measures are in place to detect and respond to rogue access points or other unauthorised network infrastructure?**
+- **Metric**: Average time to detect and neutralise rogue access points.
   - **Formula**: 
     ```markdown
-    Average detection/neutralization time = 
-    Total time to detect and neutralize rogue APs / Number of rogue APs detected
+    Average detection/neutralisation time = 
+    Total time to detect and neutralise rogue APs / Number of rogue APs detected
     ```
   - **Outcome**: Faster detection and response times indicate stronger network monitoring and security.
 
